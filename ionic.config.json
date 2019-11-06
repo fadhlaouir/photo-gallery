@@ -1,5 +1,7 @@
 {
-  "name": "photo-gallery",
-  "integrations": {},
-  "type": "react"
+  "name": "photo-rc1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
 }
